@@ -1,2 +1,5 @@
-# Proyecto Uno
-
+Estructuras de Información
+ 
+En la actualidad se presentan problemas en el tratamiento de atención al público. Provocando muchos inconvenientes en la relación entre personas y empresas, ya que se vuelve engorroso y poco ágil la comunicación de las inquietudes o problemas que tienen las personas en las distintas interacciones que producen con las empresas.
+	El presente proyecto a continuación va a tratar este problema proponiendo soluciones para que estas empresas tengan una eficiente gestión de la información que le brindan las personas y para ello se ocupan un modelado, diseño y aplicaciones varias de estructuras de datos en un software de gestión.
+	Aquí aplicaremos varios métodos de búsqueda y ordenamiento de datos de esta empresa para que el usuario no tenga que gastar más tiempo del necesario en la ejecución ya que todo a medida que se van ingresando datos inmediatamente estos son ordenados de manera tal que al buscaros sean encontrados de una manera más eficaz en tiempos de ejecución de software.
