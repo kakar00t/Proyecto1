@@ -1,0 +1,60 @@
+REGION  [Region de Arica y Parinacota]
+ID      [1]
+
+========================//==========================
+REGION  [Region de Tarapaca]
+ID      [2]
+
+========================//==========================
+REGION  [Region de Antofagasta]
+ID      [3]
+
+========================//==========================
+REGION  [Region de Atacama]
+ID      [4]
+
+========================//==========================
+REGION  [Region de Coquimbo]
+ID      [5]
+
+========================//==========================
+REGION  [Region de Valparaiso]
+ID      [6]
+
+========================//==========================
+REGION  [Region Metropolitana de Santiago]
+ID      [7]
+
+========================//==========================
+REGION  [Region del Libertador General Bernardo O Higgins]
+ID      [8]
+
+========================//==========================
+REGION  [Region del Maule]
+ID      [9]
+
+========================//==========================
+REGION  [Region del Biobio]
+ID      [10]
+
+========================//==========================
+REGION  [Region de la Aracucanía]
+ID      [11]
+
+========================//==========================
+REGION  [Region de los Ríos]
+ID      [12]
+
+========================//==========================
+REGION  [Region de los Lagos]
+ID      [13]
+
+========================//==========================
+REGION  [Region de Aisén del General Carlos Ibáñez del Campo]
+ID      [14]
+
+========================//==========================
+REGION  [Region de Magallanes y la Antártica Chilena]
+ID      [15]
+
+========================//==========================

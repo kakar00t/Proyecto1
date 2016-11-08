@@ -1,0 +1,20 @@
+
+Estimado Usuario:
+	En esta pantalla debera escoger las siguientes 
+	opciones 
+	
+1] Usuario Registrado : Si esta afiliado a la  empresa, 
+	el sistema le pedira su ID de consulta para 
+	confirmar sus registros.
+
+2] Usuario Externo : Si no esta registrado, puede optar 
+	por esta opcion y el sistema le asignara una 
+	ID de consultas unico y sin costos adicionales.
+
+3] Administrador : Solo disponible para el encargado de 
+	administrar los cambios en la empresa.
+	Su uso esta restringido por la clave, y es otorgada al 
+	rut de la empresa.
+ 
+
+
